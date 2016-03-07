@@ -1,0 +1,76 @@
+8
+
+dir
+1745
+file:///Rps_Greenfield_V1/VAGreenfield/Workspaces/CommendWorkspace/CommendMonitor
+file:///Rps_Greenfield_V1
+
+
+
+2015-01-22T00:31:03.206211Z
+1712
+vhapalchambj
+has-props
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+30b0605a-c1a6-924f-bdf5-74a9314ea0b9
+
+build
+dir
+
+.classpath
+file
+
+
+
+
+2015-02-03T23:00:38.527274Z
+d7bb302ba93698e1d365741a6760b6ee
+2015-01-22T00:26:08.571243Z
+1710
+vhapalchambj
+
+Monitor.properties
+file
+
+
+
+
+2015-02-03T23:00:38.558523Z
+8cc52d0728ae93c33a487be393f7a6d4
+2015-01-20T20:52:25.631216Z
+1685
+vhapalchambj
+
+.project
+file
+
+
+
+
+2015-02-03T23:00:38.574148Z
+f8bb59a5bbcef55cd0716798110f5648
+2015-01-20T18:29:58.011962Z
+1676
+vhapalchambj
+
+src
+dir
+
+WebContent
+dir
+
+.settings
+dir
+
